@@ -1,0 +1,17 @@
+﻿body, input, select{font-family:Arial, Tahoma, Verdana, Sans-Serif; font-size:12px;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+div.container{margin:20px auto; width:960px;}
+td.header{font-weight:bold;padding-top:20px;padding-left:10px;border-bottom:solid 1px #adadad;}
+td.label, td.check{text-align:right;}
+td.label{padding-right:10px;}
+td{vertical-align:top;}
+ul{padding-left:0;margin-left:20px;}
+li{margin-top:6px;}
+input[type="text"],input[type="password"]{width:100px;}
+input[type="button"],input[type="submit"]{
+}
+select{width:80px;}
+a.nav{font-weight:bold;margin-right:10px;padding:4px 6px;background-color:Teal;color:White;text-decoration:none;}
+a.nav,a.link{font-size:13px;}
+a:hover.nav{color:Black;text-decoration:none;}

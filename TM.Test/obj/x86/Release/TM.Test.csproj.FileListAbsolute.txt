@@ -1,0 +1,15 @@
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Test.exe.config
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Test.exe
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Test.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.DAL.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Objects.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Reader.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\CodeEffects.Rule.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TA-Lib-Core.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.DAL.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Objects.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\TM.Reader.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\bin\Release\CodeEffects.Rule.xml
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\obj\x86\Release\TM.Test.exe
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.Test\obj\x86\Release\TM.Test.pdb
