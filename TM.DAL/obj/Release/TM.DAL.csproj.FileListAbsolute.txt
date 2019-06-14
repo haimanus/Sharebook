@@ -1,0 +1,12 @@
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\TM.DAL.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\TM.DAL.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\TM.Objects.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\CodeEffects.Rule.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\TA-Lib-Core.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\TM.Objects.pdb
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\bin\Release\CodeEffects.Rule.xml
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\obj\Release\TM.DAL.dll
+D:\Personal\ROBo\RoboX\src\Trademaster\TM.DAL\obj\Release\TM.DAL.pdb
